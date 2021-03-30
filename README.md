@@ -12,10 +12,10 @@
     git commit
   ```
 * Na GitHubu na stránce repozitáře klikněte vpravo nahoře na tlačítko <kbd>Fork</kbd>. Vytvoří se kopie tohoto repozitáře na Vašem účtu:
-  `https://github.com/vase_jmeno/prezencka`
+  `https://github.com/vase_jmeno/sportovci`
 * V příkazové řádce přidejte do Gitu adresu Vašeho vzdáleného repozitáře.
   ```
-  git remote add vase_jmeno https://github.com/vase_jmeno/prezencka
+  git remote add vase_jmeno https://github.com/vase_jmeno/sportovci
   ```
 * Pošlete změny na Váš vzdálený repozitář.
   ```
@@ -37,8 +37,8 @@ Klikněte na ni, zkontrolujte popisek změny a pull request potvrďte.
 
 
 ### Úkol 2
-V souboru, který jste přidali do repozitáře prezencka, doplňte, jakou máte dnes náladu.
-* V repozitáři prezencka vytvořte novou větev.
+V souboru, který jste přidali do repozitáře sportovci, doplňte, jakou máte dnes náladu.
+* V repozitáři sportovci vytvořte novou větev.
   ```
   git branch nazev_vetve
   ```
